@@ -1,0 +1,18 @@
+body {
+  color: #fff;
+  background-color: #faebd7;
+}
+
+/** HEADER **/
+.navbar{
+  background-color: #E1C16E;
+}
+
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+
